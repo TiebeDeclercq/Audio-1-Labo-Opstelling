@@ -1,6 +1,6 @@
 # Audio1-Labo-Opstelling
 
-Complete printplaat met alle schakelingen van zowel versterkers (klasse a, en ab) en jfets @Vives kortrijk.
+Complete printplaat met alle schakelingen van zowel versterkers (klasse a en ab) en jfets @Vives kortrijk.
 Met een printbare voet voor betere stabiliteit en geen kortsluiting te krijgen.
 Op deze voet wordt er gewerkt met heated inserts (M3) voor het monteren van de print.
 
